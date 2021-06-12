@@ -17,7 +17,9 @@ The <i>sentiment</i> funtion of TextBlob returns these two properties, subjectiv
 2. After getting keys - create a csv file and store ConsumerKey, ConsumerSecretKey, AccessToken and AccessTokenSecret. <br>
 3. Upload the file as given in code <br>
 4. Start writing code and perfrom the analysis.
-
+<br>
+<br>
+<br>
 
 
 inspired by - https://www.youtube.com/watch?v=ujId4ipkBio&t=342s
