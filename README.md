@@ -22,4 +22,4 @@ The <i>sentiment</i> funtion of TextBlob returns these two properties, subjectiv
 <br>
 
 
-inspired by - https://www.youtube.com/watch?v=ujId4ipkBio&t=342s
+Note: This work is highly inpired from few other kernals, github sources and data science resources. Due respect and credit.
